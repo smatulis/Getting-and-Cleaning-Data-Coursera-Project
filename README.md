@@ -27,8 +27,8 @@ One R script called run_analysis.R that does the following.
 
 run_analysis.R 
 
-  -script described above that can be ran
+      -script described above that can be ran
 
 Tidy.txt
 
-  -output tidy file
+      -output tidy file
