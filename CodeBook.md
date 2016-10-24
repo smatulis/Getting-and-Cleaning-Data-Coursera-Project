@@ -26,5 +26,8 @@ The input data containts the following data files:
 
 ###Output Data Set
 
+
+The output data containts the following data files:
+
 'Tidy.txt': contains the mean and standard deviation values of the data contained in the input files.
 
