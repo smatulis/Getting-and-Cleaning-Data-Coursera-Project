@@ -1,7 +1,7 @@
 
 
-
-###Input Data Set
+# Getting-and-Cleaning-Data-Coursera-Project-CodeBook
+# Input Data Set
 
 The data set used can be downloaded from 
 
@@ -24,7 +24,7 @@ The input data containts the following data files:
 
 'Y_test.txt': Test labels
 
-###Output Data Set
+# Output Data Set
 
 
 The output data containts the following data files:
